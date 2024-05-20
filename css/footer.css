@@ -35,6 +35,7 @@
 
     margin: 0 .5rem .7rem;
 }
+
 @media screen and (min-width: 1024px) {
     .footer {
         flex-direction: row;
